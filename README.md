@@ -1,4 +1,4 @@
-# Ingenieria de Software - FCEFyN - UNC
+﻿# Ingenieria de Software - FCEFyN - UNC
 ## Proyecto de Ejemplo
 
 Este proyecto esta construido utilizando Gradle Wrapper. Para ejecutar las tareas debe situarse en el raiz del proyecto (donde se encuentra el archivo build.gradle) y utilizar:
@@ -66,3 +66,7 @@ El servidor de Integracion Continua puede ser encontrado en las URLs
 
 - https://travis-ci.org/jnonino/ing-soft-ejemplo
 - https://circleci.com/gh/jnonino/ing-soft-ejemplo
+
+
+---------------------------------------------------------------------------------------------
+[![Build Status](https://travis-ci.org/zimmcl/Travis.svg?branch=master)](https://travis-ci.org/zimmcl/Travis)
